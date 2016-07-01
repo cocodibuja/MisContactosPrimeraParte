@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MisContactosCoursera</string>
+
+    <string name="nombre">Anahi </string>
+
+    <string name="telefono">5577777</string>
+    <string name="email">anahi@gmail.com</string>
+
+
+    <string name="pnombre">nombre </string>
+
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+
+</resources>
